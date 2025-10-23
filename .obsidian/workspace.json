@@ -49,8 +49,23 @@
               "icon": "lucide-file",
               "title": "about git"
             }
+          },
+          {
+            "id": "a129eebcf113f1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git  new.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git  new"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,6 +212,7 @@
   },
   "active": "e6f56fb582706ea4",
   "lastOpenFiles": [
+    "git  new.md",
     "about git.md",
     "git actual comands.md",
     "git commands.md"
